@@ -79,8 +79,8 @@ export const SITE_CONFIG: SiteConfig = {
     border: "#d8ebe7",
     headerBg: "#042f2e",
     headerInk: "#f0fdfa",
-    fontHeading: "Georgia, Cambria, serif",
-    fontBody: "system-ui, -apple-system, sans-serif",
+    fontHeading: "var(--font-heading-google), Georgia, serif",
+    fontBody: "var(--font-body-google), system-ui, sans-serif",
   },
   aboutText: "Helsepulsen formidler pålitelig og praktisk fagstoff om norsk folkehelse, forebygging, fysisk aktivitet, ernæring, mental helse og pasientguider.",
 };
